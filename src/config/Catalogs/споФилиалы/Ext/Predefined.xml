@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="ca9b301a-3b0b-4fb0-80e7-71d1b4e278cf">
+		<Name>МВ</Name>
+		<Code>МВ</Code>
+		<Description>Москва Восток</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="33b7ca59-6dae-43be-8dc5-017ea61610e9">
+		<Name>СП</Name>
+		<Code>СП</Code>
+		<Description>Санкт-Петербург</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

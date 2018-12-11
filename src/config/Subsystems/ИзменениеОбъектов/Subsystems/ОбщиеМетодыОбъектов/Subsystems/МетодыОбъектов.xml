@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<Subsystem uuid="b0b15cfd-04c2-490a-b0e8-5c7c47e29abb">
+		<Properties>
+			<Name>МетодыОбъектов</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Методы объектов</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Описывает процедуры и функции общие для ссылочных объектов конфигурации</Comment>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>false</IncludeInCommandInterface>
+			<Explanation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Подсистема "Общие методы объектов".
+Описывает процедуры и функции общие, для ссылочных объектов конфигурации. 
+Среди них: 
+	* Создание пустой структуры объекта.
+	* Создание и Изменение объекта.
+	* Получение значений реквизитов 
+	и прочее.
+
+Подсистема подразумевает следующие варианты использования:
+	* В модуль менеджера каждого объекта метаданных, поддерживаемого подсистемой типа, в обязательном порядке
+		добавляются методы конструкторов. Шаблон находится внизу модуля. Процедуры и функции требуют 
+		минимальной адаптации к новому объкту.
+	* Вызов конструкторов доступен через прямое обращение к методам, расположенным в модуле менеджера объекта,
+		например: Документы.споГруз.СоздатьОбъект(СтруктураОбъекта);
+		В таком случае, выполнение метода будет осуществляться в том же контексте, что и его вызов.
+	* Вызов конструкторов доступен через единую точку входа, расположенную в данном модуле,
+		например: ОбщиеМетодыОбъектовВызовСервера.КонструкторОбъекта("Документ.споГруз", СтруктураОбъекта); 
+		В таком случае необходимо дополнительно указывать полное имя объекта метаданных, 
+		для вызова соответствующих методов из модуля менеджера объекта. Контекст выполнения: Сервер.
+		
+Для неинтерактивного создания объектов в конфигурации необходимо использовать описанные конструкторы.
+</v8:content>
+				</v8:item>
+			</Explanation>
+			<Picture/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовВызовСервера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовКлиентСервер</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects/>
+	</Subsystem>
+</MetaDataObject>

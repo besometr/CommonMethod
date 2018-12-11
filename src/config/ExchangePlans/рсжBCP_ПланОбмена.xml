@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<ExchangePlan uuid="57d16d05-a7cc-43d4-94ed-1232edd2ebb9">
+		<InternalInfo>
+			<xr:ThisNode>8311b6ee-a0ce-428b-b7e9-48c8f890ddce</xr:ThisNode>
+			<xr:GeneratedType name="ExchangePlanObject.рсжBCP_ПланОбмена" category="Object">
+				<xr:TypeId>0ec4d777-4c10-4980-9a3b-805e10b8b097</xr:TypeId>
+				<xr:ValueId>719a6112-cbb1-43ea-ac28-a02e8923d94d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanRef.рсжBCP_ПланОбмена" category="Ref">
+				<xr:TypeId>0049f308-cca3-428e-a4cd-e23788e2e6f6</xr:TypeId>
+				<xr:ValueId>c546e192-f413-47c8-9c42-c5fb4898b7dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanSelection.рсжBCP_ПланОбмена" category="Selection">
+				<xr:TypeId>bb048e3d-6632-4764-b2be-b432fd74849a</xr:TypeId>
+				<xr:ValueId>8dbb92c2-b487-4711-8d60-c3dd75d0cdb9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanList.рсжBCP_ПланОбмена" category="List">
+				<xr:TypeId>bdbfffd7-0e5f-4f80-918f-68c15ae2cd58</xr:TypeId>
+				<xr:ValueId>905e7ceb-76d1-4a82-9300-a1d8e2ed215d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanManager.рсжBCP_ПланОбмена" category="Manager">
+				<xr:TypeId>8a8f0e5f-2265-48b2-9fa5-e17bb8ee0646</xr:TypeId>
+				<xr:ValueId>e551fa47-c2f9-4013-ac5c-826b36864915</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>рсжBCP_ПланОбмена</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>BCP план обмена</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<CodeLength>9</CodeLength>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+			<DescriptionLength>25</DescriptionLength>
+			<DefaultPresentation>AsDescription</DefaultPresentation>
+			<EditType>InDialog</EditType>
+			<QuickChoice>false</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<InputByString>
+				<xr:Field>ExchangePlan.рсжBCP_ПланОбмена.StandardAttribute.Description</xr:Field>
+				<xr:Field>ExchangePlan.рсжBCP_ПланОбмена.StandardAttribute.Code</xr:Field>
+			</InputByString>
+			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
+			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
+			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
+			<DefaultObjectForm/>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryObjectForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<Characteristics/>
+			<BasedOn/>
+			<DistributedInfoBase>false</DistributedInfoBase>
+			<CreateOnInput>DontUse</CreateOnInput>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockFields/>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<FullTextSearch>Use</FullTextSearch>
+			<ObjectPresentation/>
+			<ExtendedObjectPresentation/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</ExchangePlan>
+</MetaDataObject>
