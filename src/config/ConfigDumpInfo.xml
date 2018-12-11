@@ -24,7 +24,7 @@
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e" configVersion="45dfe1bf93da0945b4651196670b72d300000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="c6570005937e58429722d45e9b325d9000000000"/>
 		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="f4ffeaded6de36409989458224236bb200000000"/>
-		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="c551daf99d22ae41b53ec320b169ccb100000000">
+		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="351195d2b0b69d44adfc398f18ab9cef00000000">
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Упаковка" id="3ef01aa3-56d7-4fee-a1ed-173a0f83905c"/>
 			<Metadata name="Document.споГруз.TabularSection.Спецификация.Attribute.ДатаСФ" id="6f5afe77-7ece-427d-9641-eec782762ea4"/>
 			<Metadata name="Document.споГруз.TabularSection.Упаковка" id="77e8edc2-06e9-443a-96f7-cb067c5295c9"/>
@@ -36,7 +36,7 @@
 			<Metadata name="Document.споГруз.Attribute.Город" id="e4db48f5-c426-4d07-9ef2-9ed16fe82513"/>
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Примечание" id="ffca525c-6190-4003-a20b-c672eace1387"/>
 		</Metadata>
-		<Metadata name="Document.споГруз.ManagerModule" id="279538a2-b926-445c-91d5-c39738e1da36.2" configVersion="deffb437d48b2d4fa92e536b54e1c3ce00000000"/>
+		<Metadata name="Document.споГруз.ManagerModule" id="279538a2-b926-445c-91d5-c39738e1da36.2" configVersion="6dd9e7f463232a4baf3eeef111437ab300000000"/>
 		<Metadata name="Document.споГруз.ObjectModule" id="279538a2-b926-445c-91d5-c39738e1da36.0" configVersion="7aea5853b95c5c4b8c6af2040687934a00000000"/>
 		<Metadata name="ExchangePlan.рсжBCP_ПланОбмена" id="57d16d05-a7cc-43d4-94ed-1232edd2ebb9" configVersion="9cb8a4b89bc6284ea2e7e504d89e5e0200000000"/>
 		<Metadata name="InformationRegister.APDEX_Настройки" id="3cb49d58-d4a2-4762-a630-b9ce6b9307b1" configVersion="8a7f91552be3c34d89445250f065492100000000">
