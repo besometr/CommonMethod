@@ -44,6 +44,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовВызовСервера</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовКлиентСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовШаблон</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
