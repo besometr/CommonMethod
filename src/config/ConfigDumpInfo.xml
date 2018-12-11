@@ -23,7 +23,9 @@
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер.Module" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b.0" configVersion="8cf3fab7c8c0314e98ee5a4997b6ceef00000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e" configVersion="45dfe1bf93da0945b4651196670b72d300000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="c6570005937e58429722d45e9b325d9000000000"/>
-		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="f4ffeaded6de36409989458224236bb200000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыШаблон" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="903fa995c99201489c8909009a5b4df700000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыШаблон.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="a10bd05d5a356d4f9c1c7cb242e3327600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="6e6331c4017efc469c756d45dd4a07a500000000"/>
 		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="9b5472b48de18b4fb17c4bd313404c2800000000">
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Упаковка" id="3ef01aa3-56d7-4fee-a1ed-173a0f83905c"/>
 			<Metadata name="Document.споГруз.TabularSection.Спецификация.Attribute.ДатаСФ" id="6f5afe77-7ece-427d-9641-eec782762ea4"/>
@@ -44,10 +46,10 @@
 			<Metadata name="InformationRegister.APDEX_Настройки.Dimension.Измерение1" id="39a42bfd-b58e-4dd1-b08b-74106fb3f196"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="8c66a3a3-5fa8-4443-8bc3-c1ca35b6bb36" configVersion="4da9222168fac242928b36a75a766aa600000000"/>
-		<Metadata name="Subsystem.ИзменениеОбъектов" id="f2463662-6d01-4a95-b108-a6403177ee62" configVersion="93f6972dc91f154e9d9d87840090a9cf00000000"/>
-		<Metadata name="Subsystem.ИзменениеОбъектов.Subsystem.ОбщиеМетодыОбъектов" id="565ae601-2df3-432f-bbd6-1264101ef66a" configVersion="1285ec839d6f7140b002d68a3eddeec500000000"/>
-		<Metadata name="Subsystem.ИзменениеОбъектов.Subsystem.ОбщиеМетодыОбъектов.Subsystem.МетодыОбъектов" id="b0b15cfd-04c2-490a-b0e8-5c7c47e29abb" configVersion="84941a6d3936cc42b21bfdc8df45e66f00000000"/>
-		<Metadata name="Subsystem.ИзменениеОбъектов.Subsystem.ОбщиеМетодыОбъектов.Subsystem.ОбъектыДляТестирования" id="7b180bdb-4923-47a3-8b8e-8834b4d7392f" configVersion="2a148b0c7dd93047ade7ee7a94bfe3ea00000000"/>
+		<Metadata name="Subsystem.Служебные" id="f2463662-6d01-4a95-b108-a6403177ee62" configVersion="95d5696ae72f6549ae5261de09a5c26e00000000"/>
+		<Metadata name="Subsystem.Служебные.Subsystem.ОбщиеМетодыОбъектов" id="565ae601-2df3-432f-bbd6-1264101ef66a" configVersion="06b8e6435fb5f7458b32ad43c0c4560c00000000"/>
+		<Metadata name="Subsystem.Служебные.Subsystem.ОбщиеМетодыОбъектов.Subsystem.Дополнительно" id="7b180bdb-4923-47a3-8b8e-8834b4d7392f" configVersion="77ad6f33ac9eb44d8f7dd99eae55e4d700000000"/>
+		<Metadata name="Subsystem.Служебные.Subsystem.ОбщиеМетодыОбъектов.Subsystem.КонструкторыОбъектов" id="b0b15cfd-04c2-490a-b0e8-5c7c47e29abb" configVersion="0e521222b66414419366d4b8dbb574c300000000"/>
 		<Metadata name="Task.ЗадачиПользователя" id="991cef80-9494-4c50-83a1-a5fd98ec7caa" configVersion="0ceccab1409f1c42b422c0ba32d0b19900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

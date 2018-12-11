@@ -140,12 +140,13 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>ИзменениеОбъектов</Subsystem>
-			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектовПовторногоИспользования</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектовКлиентСервер</CommonModule>
-			<CommonModule>ОбщегоНазначения</CommonModule>
+			<Subsystem>Служебные</Subsystem>
 			<CommonModule>Глобальный</CommonModule>
+			<CommonModule>ОбщегоНазначения</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектовКлиентСервер</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектовПовторногоИспользования</CommonModule>
+			<CommonModule>ОбщиеМетодыШаблон</CommonModule>
 			<ExchangePlan>рсжBCP_ПланОбмена</ExchangePlan>
 			<Catalog>споФилиалы</Catalog>
 			<Catalog>споУпаковкаОтправителя</Catalog>
