@@ -17,14 +17,14 @@
 		<Metadata name="CommonModule.Глобальный.Module" id="0a50a61b-f676-4a95-8267-572f8a56e1a5.0" configVersion="088a494a8cd46f468619669e3ba529a200000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначения" id="5834d577-3722-4263-88a4-abe70346401d" configVersion="6ea895badaaac84f81c66cae7de230c500000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="5834d577-3722-4263-88a4-abe70346401d.0" configVersion="3f0f42e6c12a924d88fe41ec96e7c27d00000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера" id="c893a2ed-f689-42a3-81e3-52144a06eebd" configVersion="6e1f420f257d0c4caabb1051079a5be800000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера.Module" id="c893a2ed-f689-42a3-81e3-52144a06eebd.0" configVersion="a63e7f0da803c745b73c0663569b282200000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектов" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="597fd33745d6f34bb647c92a339b9f3a00000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектов.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="a10bd05d5a356d4f9c1c7cb242e3327600000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера" id="c893a2ed-f689-42a3-81e3-52144a06eebd" configVersion="2a87fad933739c4d9e8762c972aecb4a00000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера.Module" id="c893a2ed-f689-42a3-81e3-52144a06eebd.0" configVersion="ee1672d1bebd8e4298483c3fd762c9f200000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b" configVersion="d4676edf225f4948b90e7f3f198d3bbe00000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер.Module" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b.0" configVersion="8cf3fab7c8c0314e98ee5a4997b6ceef00000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e" configVersion="45dfe1bf93da0945b4651196670b72d300000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="c6570005937e58429722d45e9b325d9000000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыШаблон" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="903fa995c99201489c8909009a5b4df700000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыШаблон.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="a10bd05d5a356d4f9c1c7cb242e3327600000000"/>
 		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="6e6331c4017efc469c756d45dd4a07a500000000"/>
 		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="9b5472b48de18b4fb17c4bd313404c2800000000">
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Упаковка" id="3ef01aa3-56d7-4fee-a1ed-173a0f83905c"/>
