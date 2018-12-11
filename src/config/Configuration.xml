@@ -146,7 +146,7 @@
 			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовКлиентСервер</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовПовторногоИспользования</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектов</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектовШаблон</CommonModule>
 			<ExchangePlan>рсжBCP_ПланОбмена</ExchangePlan>
 			<Catalog>споФилиалы</Catalog>
 			<Catalog>споУпаковкаОтправителя</Catalog>
