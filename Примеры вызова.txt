@@ -1,0 +1,1 @@
+gitsync export "\\v-dcr-repo1c\Repozitory.8.3.11.3034\CommonMethod" "E:\git\CommonMethod\config" -tempdir "E:\git\temp_gitsync"
