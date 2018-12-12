@@ -13,20 +13,20 @@
 		<Metadata name="Catalog.споФилиалы" id="96741339-e7e9-4f73-a154-eb129c1250fa" configVersion="f6e106eb716b6a41aeeffc7b1370081200000000"/>
 		<Metadata name="Catalog.споФилиалы.Predefined" id="96741339-e7e9-4f73-a154-eb129c1250fa.1c" configVersion="5d9325024e1fc840b7b27fd6af599e3900000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.СвойстваОбъектов" id="800d7bd8-c1e7-4ad6-8eac-00164850f6c0" configVersion="bd5d76e8ed16e042a2f0d99feacb928c00000000"/>
-		<Metadata name="CommonModule.Глобальный" id="0a50a61b-f676-4a95-8267-572f8a56e1a5" configVersion="9479c6ca016de64ba6b24dacf3ec715600000000"/>
-		<Metadata name="CommonModule.Глобальный.Module" id="0a50a61b-f676-4a95-8267-572f8a56e1a5.0" configVersion="088a494a8cd46f468619669e3ba529a200000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначения" id="5834d577-3722-4263-88a4-abe70346401d" configVersion="6ea895badaaac84f81c66cae7de230c500000000"/>
-		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="5834d577-3722-4263-88a4-abe70346401d.0" configVersion="3f0f42e6c12a924d88fe41ec96e7c27d00000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера" id="c893a2ed-f689-42a3-81e3-52144a06eebd" configVersion="0d271feb1f259b40bb305202477f7dd200000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера.Module" id="c893a2ed-f689-42a3-81e3-52144a06eebd.0" configVersion="32a43f4ef4c24e47b43ae2baab1fd48800000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b" configVersion="d4676edf225f4948b90e7f3f198d3bbe00000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер.Module" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b.0" configVersion="8cf3fab7c8c0314e98ee5a4997b6ceef00000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e" configVersion="45dfe1bf93da0945b4651196670b72d300000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="c6570005937e58429722d45e9b325d9000000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="fd64a4490a6d7e49872a5ffe2158bb3800000000"/>
-		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="a10bd05d5a356d4f9c1c7cb242e3327600000000"/>
+		<Metadata name="CommonModule.Глобальный" id="0a50a61b-f676-4a95-8267-572f8a56e1a5" configVersion="4550b78f3efd7042b1d5bd0ef6ae43c700000000"/>
+		<Metadata name="CommonModule.Глобальный.Module" id="0a50a61b-f676-4a95-8267-572f8a56e1a5.0" configVersion="3e9919f64c7b12439ec27b4db2d8178800000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="5834d577-3722-4263-88a4-abe70346401d" configVersion="12cdcee8b67f0e41807a0bfc0b3aebea00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="5834d577-3722-4263-88a4-abe70346401d.0" configVersion="9e6d418224f74247923dbe06a92d3dd300000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера" id="c893a2ed-f689-42a3-81e3-52144a06eebd" configVersion="a4fcd06b9e23034b96274e9d78e29ebd00000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовВызовСервера.Module" id="c893a2ed-f689-42a3-81e3-52144a06eebd.0" configVersion="cf797a066c551a4288f962bbd1f9c7be00000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b" configVersion="6eedf51558cecf4e89804c736b25800c00000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер.Module" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b.0" configVersion="0488009e8ac38946839fc5b87f9fe17000000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e" configVersion="123f89963fc58444b73468a1c1d9edda00000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="307283f93138444bbffbd2675689faa100000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="3d2771d0c1fb114a9baed9ee7ffca6e100000000"/>
+		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="0c0b1c7bd231424a886e3f1aec32c5c200000000"/>
 		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="6e6331c4017efc469c756d45dd4a07a500000000"/>
-		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="9b5472b48de18b4fb17c4bd313404c2800000000">
+		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="83dba04dd8289442bf771b8c4c837b4200000000">
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Упаковка" id="3ef01aa3-56d7-4fee-a1ed-173a0f83905c"/>
 			<Metadata name="Document.споГруз.TabularSection.Спецификация.Attribute.ДатаСФ" id="6f5afe77-7ece-427d-9641-eec782762ea4"/>
 			<Metadata name="Document.споГруз.TabularSection.Упаковка" id="77e8edc2-06e9-443a-96f7-cb067c5295c9"/>
@@ -38,7 +38,7 @@
 			<Metadata name="Document.споГруз.Attribute.Город" id="e4db48f5-c426-4d07-9ef2-9ed16fe82513"/>
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Примечание" id="ffca525c-6190-4003-a20b-c672eace1387"/>
 		</Metadata>
-		<Metadata name="Document.споГруз.ManagerModule" id="279538a2-b926-445c-91d5-c39738e1da36.2" configVersion="24e4bfc61baecb45b2fd587921a8779600000000"/>
+		<Metadata name="Document.споГруз.ManagerModule" id="279538a2-b926-445c-91d5-c39738e1da36.2" configVersion="72f645b187b0704895cef0b262d1524800000000"/>
 		<Metadata name="Document.споГруз.ObjectModule" id="279538a2-b926-445c-91d5-c39738e1da36.0" configVersion="7aea5853b95c5c4b8c6af2040687934a00000000"/>
 		<Metadata name="ExchangePlan.рсжBCP_ПланОбмена" id="57d16d05-a7cc-43d4-94ed-1232edd2ebb9" configVersion="9cb8a4b89bc6284ea2e7e504d89e5e0200000000"/>
 		<Metadata name="InformationRegister.APDEX_Настройки" id="3cb49d58-d4a2-4762-a630-b9ce6b9307b1" configVersion="8a7f91552be3c34d89445250f065492100000000">
