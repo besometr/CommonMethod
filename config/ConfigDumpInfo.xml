@@ -26,7 +26,7 @@
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="63a617a7edf22a4c917432ff073434e300000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="e7522a8afd57db4eb1992406edb9575100000000"/>
 		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="6e6331c4017efc469c756d45dd4a07a500000000"/>
-		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="c06be0e0f401c549942e0b54a7f6381400000000">
+		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="2cf7634e6bd4484db237655c4a384bd600000000">
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Упаковка" id="3ef01aa3-56d7-4fee-a1ed-173a0f83905c"/>
 			<Metadata name="Document.споГруз.TabularSection.Спецификация.Attribute.ДатаСФ" id="6f5afe77-7ece-427d-9641-eec782762ea4"/>
 			<Metadata name="Document.споГруз.TabularSection.Упаковка" id="77e8edc2-06e9-443a-96f7-cb067c5295c9"/>
@@ -38,7 +38,7 @@
 			<Metadata name="Document.споГруз.Attribute.Город" id="e4db48f5-c426-4d07-9ef2-9ed16fe82513"/>
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Примечание" id="ffca525c-6190-4003-a20b-c672eace1387"/>
 		</Metadata>
-		<Metadata name="Document.споГруз.ManagerModule" id="279538a2-b926-445c-91d5-c39738e1da36.2" configVersion="79d737e13c8703498022eb7c8268b26500000000"/>
+		<Metadata name="Document.споГруз.ManagerModule" id="279538a2-b926-445c-91d5-c39738e1da36.2" configVersion="f92fa82f9d9c3b4a9e9989689c7ae4b000000000"/>
 		<Metadata name="Document.споГруз.ObjectModule" id="279538a2-b926-445c-91d5-c39738e1da36.0" configVersion="7aea5853b95c5c4b8c6af2040687934a00000000"/>
 		<Metadata name="ExchangePlan.рсжBCP_ПланОбмена" id="57d16d05-a7cc-43d4-94ed-1232edd2ebb9" configVersion="9cb8a4b89bc6284ea2e7e504d89e5e0200000000"/>
 		<Metadata name="InformationRegister.APDEX_Настройки" id="3cb49d58-d4a2-4762-a630-b9ce6b9307b1" configVersion="8a7f91552be3c34d89445250f065492100000000">
