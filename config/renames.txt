@@ -27,6 +27,8 @@ Documents\споГруз\Ext\ObjectModule.bsl-->Documents\споГруз\Ext\Obj
 ExchangePlans\рсжBCP_ПланОбмена.xml-->ExchangePlans\рсжBCP_ПланОбмена.xml
 InformationRegisters\APDEX_Настройки.xml-->InformationRegisters\APDEX_Настройки.xml
 Languages\Русский.xml-->Languages\Русский.xml
+Roles\ПолныеПрава.xml-->Roles\ПолныеПрава.xml
+Roles\ПолныеПрава\Ext\Rights.xml-->Roles\ПолныеПрава\Ext\Rights.xml
 Subsystems\Служебные.xml-->Subsystems\Служебные.xml
 Subsystems\Служебные\Subsystems\ОбщиеМетодыОбъектов.xml-->Subsystems\Служебные\Subsystems\ОбщиеМетодыОбъектов.xml
 Subsystems\Служебные\Subsystems\ОбщиеМетодыОбъектов\Subsystems\Дополнительно.xml-->Subsystems\Служебные\Subsystems\ОбщиеМетодыОбъектов\Subsystems\Дополнительно.xml

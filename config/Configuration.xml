@@ -141,6 +141,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Служебные</Subsystem>
+			<Role>ПолныеПрава</Role>
 			<CommonModule>Глобальный</CommonModule>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>

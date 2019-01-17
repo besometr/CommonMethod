@@ -25,7 +25,7 @@
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="307283f93138444bbffbd2675689faa100000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон" id="4cbefdb1-f93a-462a-ab70-a840740128b5" configVersion="63a617a7edf22a4c917432ff073434e300000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовШаблон.Module" id="4cbefdb1-f93a-462a-ab70-a840740128b5.0" configVersion="e7522a8afd57db4eb1992406edb9575100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="6e6331c4017efc469c756d45dd4a07a500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="322570ac-192c-4bce-a22d-6329372eb518" configVersion="0726986567bf524188db5715562ba51700000000"/>
 		<Metadata name="Document.споГруз" id="279538a2-b926-445c-91d5-c39738e1da36" configVersion="2cf7634e6bd4484db237655c4a384bd600000000">
 			<Metadata name="Document.споГруз.TabularSection.Упаковка.Attribute.Упаковка" id="3ef01aa3-56d7-4fee-a1ed-173a0f83905c"/>
 			<Metadata name="Document.споГруз.TabularSection.Спецификация.Attribute.ДатаСФ" id="6f5afe77-7ece-427d-9641-eec782762ea4"/>
@@ -46,6 +46,8 @@
 			<Metadata name="InformationRegister.APDEX_Настройки.Dimension.Измерение1" id="39a42bfd-b58e-4dd1-b08b-74106fb3f196"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="8c66a3a3-5fa8-4443-8bc3-c1ca35b6bb36" configVersion="4da9222168fac242928b36a75a766aa600000000"/>
+		<Metadata name="Role.ПолныеПрава" id="089b7ca6-2333-49d4-80dc-a25da6731492" configVersion="f24149a40e34c343b00cc52fa2c1cbb600000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="089b7ca6-2333-49d4-80dc-a25da6731492.0" configVersion="fb2c7922c79b1d4aafa6e8b95533d1b900000000"/>
 		<Metadata name="Subsystem.Служебные" id="f2463662-6d01-4a95-b108-a6403177ee62" configVersion="95d5696ae72f6549ae5261de09a5c26e00000000"/>
 		<Metadata name="Subsystem.Служебные.Subsystem.ОбщиеМетодыОбъектов" id="565ae601-2df3-432f-bbd6-1264101ef66a" configVersion="06b8e6435fb5f7458b32ad43c0c4560c00000000"/>
 		<Metadata name="Subsystem.Служебные.Subsystem.ОбщиеМетодыОбъектов.Subsystem.Дополнительно" id="7b180bdb-4923-47a3-8b8e-8834b4d7392f" configVersion="77ad6f33ac9eb44d8f7dd99eae55e4d700000000"/>
