@@ -141,17 +141,18 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Служебные</Subsystem>
+			<Subsystem>Дополнительно</Subsystem>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>Глобальный</CommonModule>
 			<CommonModule>ОбщегоНазначения</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектов_ШаблонММ</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектов_ШаблонСМО</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовКлиентСервер</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовПовторногоИспользования</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектовШаблон</CommonModule>
+			<CommonModule>споГрузВызовСервера</CommonModule>
 			<ExchangePlan>рсжBCP_ПланОбмена</ExchangePlan>
 			<Catalog>споФилиалы</Catalog>
-			<Catalog>споУпаковкаОтправителя</Catalog>
-			<Catalog>споПоврежденияУпаковки</Catalog>
 			<Document>споГруз</Document>
 			<InformationRegister>APDEX_Настройки</InformationRegister>
 			<AccumulationRegister>ВзаиморасчетыСИМ</AccumulationRegister>
