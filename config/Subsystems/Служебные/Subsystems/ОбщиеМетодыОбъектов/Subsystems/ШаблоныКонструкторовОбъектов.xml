@@ -22,7 +22,7 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектов_ШаблонМодуляМенеджера</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектов_ШаблонСерверногоМодуляОбъекта</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектов_ШаблонСерверногоМодуля</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -146,10 +146,10 @@
 			<CommonModule>Глобальный</CommonModule>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектов_ШаблонМодуляМенеджера</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектов_ШаблонСерверногоМодуляОбъекта</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектов_ШаблонСерверногоМодуля</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовКлиентСервер</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектовПовторногоИспользования</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектовПовтИсп</CommonModule>
 			<CommonModule>споГрузВызовСервера</CommonModule>
 			<CommonModule>споРаботаСДокументамиКлиентов</CommonModule>
 			<CommonModule>споРаботаСДокументамиСервер</CommonModule>

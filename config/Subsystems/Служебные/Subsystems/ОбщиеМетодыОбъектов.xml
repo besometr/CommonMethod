@@ -23,7 +23,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовВызовСервера</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовКлиентСервер</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовПовторногоИспользования</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектовПовтИсп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщиеМетодыОбъектов_ШаблонМодуляМенеджера</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
 			</Content>
