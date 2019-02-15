@@ -28,8 +28,8 @@
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовКлиентСервер.Module" id="a519ed38-7033-40b7-9ef5-c879b41eeb8b.0" configVersion="a18a4fd7148c05459c2e6d044d4b94cb00000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовтИсп" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e" configVersion="21e60e50def23e46b5fb1c897edf3da300000000"/>
 		<Metadata name="CommonModule.ОбщиеМетодыОбъектовПовтИсп.Module" id="c5d45641-31c2-46dc-9f00-3b3a1b69797e.0" configVersion="fb0f60da10d5794ba42a4e1013374c5e00000000"/>
-		<Metadata name="CommonModule.споГрузВызовСервера" id="7cbc4cbe-1800-4f26-9637-dd07f7be890a" configVersion="f4f1c73648e5974788115634de49e67300000000"/>
-		<Metadata name="CommonModule.споГрузВызовСервера.Module" id="7cbc4cbe-1800-4f26-9637-dd07f7be890a.0" configVersion="8a839d2e07902547b99d552466b83abd00000000"/>
+		<Metadata name="CommonModule.споГрузВызовСервера" id="7cbc4cbe-1800-4f26-9637-dd07f7be890a" configVersion="a957130c0a048340906aec82983f0cdf00000000"/>
+		<Metadata name="CommonModule.споГрузВызовСервера.Module" id="7cbc4cbe-1800-4f26-9637-dd07f7be890a.0" configVersion="e871c974024917409b04c77ad0eb667900000000"/>
 		<Metadata name="CommonModule.споРаботаСДокументамиКлиентов" id="5857e2ab-d3ec-43c0-a41c-82f40cc0ef3b" configVersion="02cbba967f1ae44c9c3c09d7f74cf1d100000000"/>
 		<Metadata name="CommonModule.споРаботаСДокументамиКлиентов.Module" id="5857e2ab-d3ec-43c0-a41c-82f40cc0ef3b.0" configVersion="3e171766df6d63459c9bd95c68385df200000000"/>
 		<Metadata name="CommonModule.споРаботаСДокументамиСервер" id="a674d929-67ca-4eac-930a-4aa184bcfa41" configVersion="2d56d7cea926244b8b1a74d814b19dd200000000"/>
