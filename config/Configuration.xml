@@ -145,12 +145,14 @@
 			<Role>ПолныеПрава</Role>
 			<CommonModule>Глобальный</CommonModule>
 			<CommonModule>ОбщегоНазначения</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектов_ШаблонММ</CommonModule>
-			<CommonModule>ОбщиеМетодыОбъектов_ШаблонСМО</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектов_ШаблонМодуляМенеджера</CommonModule>
+			<CommonModule>ОбщиеМетодыОбъектов_ШаблонСерверногоМодуляОбъекта</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовВызовСервера</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовКлиентСервер</CommonModule>
 			<CommonModule>ОбщиеМетодыОбъектовПовторногоИспользования</CommonModule>
 			<CommonModule>споГрузВызовСервера</CommonModule>
+			<CommonModule>споРаботаСДокументамиКлиентов</CommonModule>
+			<CommonModule>споРаботаСДокументамиСервер</CommonModule>
 			<ExchangePlan>рсжBCP_ПланОбмена</ExchangePlan>
 			<Catalog>споФилиалы</Catalog>
 			<Document>споГруз</Document>
