@@ -6,12 +6,12 @@
 			<Metadata name="AccumulationRegister.ВзаиморасчетыСИМ.Resource.Ресурс1" id="f60d2b0e-1680-4063-a0d5-1a71c71060ca"/>
 		</Metadata>
 		<Metadata name="BusinessProcess.споБизнесПроцесс" id="fab7af8d-0786-4ead-acd3-f1a39aecc999" configVersion="40e09bf79f1fd74aa06e3233af4230bf00000000"/>
-		<Metadata name="Catalog.споФилиалы" id="96741339-e7e9-4f73-a154-eb129c1250fa" configVersion="b2e58ed4abdfae4497d67c8e63058d2500000000"/>
+		<Metadata name="Catalog.споФилиалы" id="96741339-e7e9-4f73-a154-eb129c1250fa" configVersion="23cba176167af940bb36047c0f1a130900000000"/>
 		<Metadata name="Catalog.споФилиалы.Form.ФормаСписка" id="a8e51d42-0eae-4758-ae03-ab68aed393a3" configVersion="33fcae151e26364fa82ec5af7d47c93100000000"/>
 		<Metadata name="Catalog.споФилиалы.Form.ФормаСписка.Form" id="a8e51d42-0eae-4758-ae03-ab68aed393a3.0" configVersion="40ae8ac8a58b184a9ffff7f95376e75900000000"/>
 		<Metadata name="Catalog.споФилиалы.Form.ФормаЭлемента" id="eec5f8a4-5ce5-4080-a9d2-7da3429c5d4d" configVersion="a0fa9afbcdfa3e44ae6a315a68dbb92a00000000"/>
 		<Metadata name="Catalog.споФилиалы.Form.ФормаЭлемента.Form" id="eec5f8a4-5ce5-4080-a9d2-7da3429c5d4d.0" configVersion="4f2953b8352a164caaff383e9bcf0a4500000000"/>
-		<Metadata name="Catalog.споФилиалы.ObjectModule" id="96741339-e7e9-4f73-a154-eb129c1250fa.0" configVersion="9feb8c300f9fb54784a7e9b5c8545cdc00000000"/>
+		<Metadata name="Catalog.споФилиалы.ObjectModule" id="96741339-e7e9-4f73-a154-eb129c1250fa.0" configVersion="085bacf024c0e14da54c7235f0909df300000000"/>
 		<Metadata name="Catalog.споФилиалы.Predefined" id="96741339-e7e9-4f73-a154-eb129c1250fa.1c" configVersion="5d9325024e1fc840b7b27fd6af599e3900000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.СвойстваОбъектов" id="800d7bd8-c1e7-4ad6-8eac-00164850f6c0" configVersion="bd5d76e8ed16e042a2f0d99feacb928c00000000"/>
 		<Metadata name="CommonModule.Глобальный" id="0a50a61b-f676-4a95-8267-572f8a56e1a5" configVersion="4550b78f3efd7042b1d5bd0ef6ae43c700000000"/>
